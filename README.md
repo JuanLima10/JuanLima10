@@ -1,5 +1,5 @@
 ## Ola! Bem vindo ao meu Git meu nome é Juan 👋
-
+<div>
 <img alt="Juan-Space" width="300px" src="https://ib.canaltech.com.br/361132.gif">
 <p style="align-items: center;">
 Desenvolvedor FullStack ! <br>
@@ -14,7 +14,6 @@ e Técnico em Desenvovimento de Sistemas na ETEC de Guainases. <br>
 <div>
 
 <br>
-<div>
 <div>
 
   <img alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
