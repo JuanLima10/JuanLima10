@@ -1,7 +1,7 @@
 ## Ola! Bem vindo ao meu Git meu nome é Juan 👋
 
 <center>
-<img style="width: 300px; display: block;" alt="Juan-yoda" src="https://ib.canaltech.com.br/361132.gif">
+<img style="width: 200px; display: block;" alt="Juan-yoda" src="https://ib.canaltech.com.br/361132.gif">
 <p style="align-items: center;">
 Desenvolvedor FullStack ! <br>
 Olá meu nome é Juan Lima tenho 19 anos, <br>
@@ -11,8 +11,8 @@ e Técnico em Desenvovimento de Sistemas na ETEC de Guainases. <br>
 </center>
  <div>
   <a href="https://github.com/Juanballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanLima10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLima10&layout=compact&langs_count=16&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JuanLima10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLima10&layout=compact&langs_count=16&theme=dark"/>
 <div>
 
 <br>
