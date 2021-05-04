@@ -1,7 +1,7 @@
 ## Ola! Bem vindo ao meu Git meu nome é Juan 👋
 <div>
 <img alt="Juan-Space" width="300px" src="https://ib.canaltech.com.br/361132.gif">
-<p style="text-align: center;">
+<p align="center">
 Desenvolvedor FullStack ! <br>
 Olá meu nome é Juan Lima tenho 19 anos, <br>
 estudante de Analise e Desenvolvimento de Sistemas (3° Semestre), <br>
