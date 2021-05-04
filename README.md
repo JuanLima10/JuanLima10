@@ -1,6 +1,5 @@
 ## Ola! Bem vindo ao meu Git meu nome é Juan 👋
 
-<center>
 <img style="width: 200px; display: block;" alt="Juan-yoda" src="https://ib.canaltech.com.br/361132.gif">
 <p style="align-items: center;">
 Desenvolvedor FullStack ! <br>
@@ -8,7 +7,6 @@ Olá meu nome é Juan Lima tenho 19 anos, <br>
 estudante de Analise e Desenvolvimento de Sistemas (3° Semestre), <br>
 e Técnico em Desenvovimento de Sistemas na ETEC de Guainases. <br>
 </p>
-</center>
  <div>
   <a href="https://github.com/Juanballerini">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JuanLima10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -37,9 +35,5 @@ e Técnico em Desenvovimento de Sistemas na ETEC de Guainases. <br>
     <a href="https://www.linkedin.com/in/juan-lima-297b9a1b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/juanlima051/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-<br>
-
-<img style="width: 400px; display: block; margin-left: -52px;" alt="Juan-yoda" src="https://64.media.tumblr.com/32088ae826054339089e8e9c33247449/tumblr_o70wb0LNTP1qewacoo2_500.gif">
 
 </div>
