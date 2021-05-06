@@ -10,7 +10,7 @@ e Técnico em Desenvovimento de Sistemas na ETEC de Guainases. <br>
  <div>
   <a href="https://github.com/Juanballerini">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JuanLima10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLima10&layout=compact&langs_count=16&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLima&layout=compact&langs_count=16&theme=dark"/>
 <div>
 
 <br>
