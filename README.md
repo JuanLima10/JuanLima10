@@ -5,7 +5,7 @@
 Desenvolvedor FullStack ! <br>
 Olá meu nome é Juan Lima tenho 19 anos, <br>
 estudante de Analise e Desenvolvimento de Sistemas (3° Semestre), <br>
-e Técnico em Desenvovimento de Sistemas na ETEC de Guainases. <br>
+e Técnico em Desenvovimento de Sistemas na ETEC de Guainazes. <br>
 </p>
  <div>
   <a href="https://github-readme-stats.vercel.app/api?username=JuanLima10&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
