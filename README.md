@@ -2,10 +2,10 @@
 <div align="center">
 <img alt="Juan-Space" width="300px" src="https://ib.canaltech.com.br/361132.gif">
 <p>
-Desenvolvedor FullStack ! <br>
+Estudante de Programação ! <br>
 Olá meu nome é Juan Lima tenho 19 anos, <br>
-estudante de Analise e Desenvolvimento de Sistemas (3° Semestre), <br>
-e Técnico em Desenvovimento de Sistemas na ETEC de Guainazes. <br>
+estudante de Analise e Desenvolvimento de Sistemas (Faculdade Impacta), <br>
+e Técnico em Desenvovimento de Sistemas (ETEC de Guainazes). <br>
 </p>
  <div>
   <a href="https://github-readme-stats.vercel.app/api?username=JuanLima10&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
