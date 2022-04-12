@@ -2,9 +2,9 @@
 <div align="center">
 <img alt="Juan-Space" width="300px" src="https://ib.canaltech.com.br/361132.gif">
 <p>
-Estudante de Programação ! <br>
-Olá meu nome é Juan Lima tenho 19 anos, <br>
-estudante de Analise e Desenvolvimento de Sistemas (Faculdade Impacta), <br>
+Programador ! <br>
+Olá meu nome é Juan Lima tenho 20 anos, <br>
+formado em Analise e Desenvolvimento de Sistemas (Faculdade Impacta), <br>
 e Técnico em Desenvovimento de Sistemas (ETEC de Guainazes). <br>
 </p>
  <div>
