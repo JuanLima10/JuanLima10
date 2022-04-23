@@ -5,7 +5,7 @@
 Programador ! <br>
 Olá meu nome é Juan Lima tenho 20 anos, <br>
 formado em Analise e Desenvolvimento de Sistemas (Faculdade Impacta), <br>
-e Técnico em Desenvovimento de Sistemas (ETEC de Guainazes). <br>
+e Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes). <br>
 </p>
  <div>
   <a href="https://github-readme-stats.vercel.app/api?username=JuanLima10&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
