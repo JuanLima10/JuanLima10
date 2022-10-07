@@ -1,6 +1,6 @@
 ## Ola! Bem vindo ao meu Git meu nome é Juan 👋
 <div align="center">
-<img alt="Juan-Space" width="300px" src="http://24.media.tumblr.com/5d868a18b0f132398a0af94539b2097b/tumblr_mrlst4WLuL1s13kjuo1_500.gif">
+<img alt="Juan-Space" width="300px" style="border-radius: 6px;" src="http://24.media.tumblr.com/5d868a18b0f132398a0af94539b2097b/tumblr_mrlst4WLuL1s13kjuo1_500.gif">
 <p>
 Desenvolvedor FullStack<br>
 Olá meu nome é Juan Lima tenho 20 anos, <br>
