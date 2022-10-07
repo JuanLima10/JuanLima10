@@ -10,10 +10,10 @@ e Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes). <br>
 <br>
   
 <div>
-  <a href="https://github-readme-stats.vercel.app/api?username=JuanLima10&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <a href="">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JuanLima10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLima10&layout=compact&langs_count=16&theme=dark">
+  <a href="">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLima10&layout=compact&langs_count=16&theme=dark">
   </a>
 <div>
