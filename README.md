@@ -2,7 +2,7 @@
 <div align="center">
 <img alt="Juan-Space" width="300px" src="https://ib.canaltech.com.br/361132.gif">
 <p>
-Programador ! <br>
+Desenvolvedor FullStack<br>
 Olá meu nome é Juan Lima tenho 20 anos, <br>
 formado em Analise e Desenvolvimento de Sistemas (Faculdade Impacta), <br>
 e Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes). <br>
