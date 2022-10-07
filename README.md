@@ -7,8 +7,17 @@ Olá meu nome é Juan Lima tenho 20 anos, <br>
 formado em Analise e Desenvolvimento de Sistemas (Faculdade Impacta), <br>
 e Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes). <br>
 </p>
-
 <br>
+  
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=JuanLima10&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JuanLima10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLima10&layout=compact&langs_count=16&theme=dark">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLima10&layout=compact&langs_count=16&theme=dark">
+  </a>
+<div>
+
 <div>
 
   <img alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
