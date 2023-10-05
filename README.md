@@ -1,21 +1,17 @@
 ## Ola! Bem vindo ao meu Git meu nome é Juan 👋
-<div>
+<div align="center">
 <img alt="Juan-Space" width="300px" src="http://24.media.tumblr.com/5d868a18b0f132398a0af94539b2097b/tumblr_mrlst4WLuL1s13kjuo1_500.gif">
 <br>
 
-<p align="start">
+<p>
 Desenvolvedor FullStack<br>
 Olá meu nome é Juan Lima tenho 21 anos, <br>
 Apaixonado por programação e tecnologia, estou em constante busca por desafios empolgantes  
-e oportunidades de aprendizado, se você está procurando alguém para trabalhar em um projeto 
-emocionante ou apenas deseja bater um papo sobre tecnologia, pode me chamar no linkedin. <br>
+e oportunidades de aprendizado. <br>
 </p>
 <br>
   
 <div>
-  <a href="https://github.com/JuanLima10/">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JuanLima10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
   <a href="https://github.com/JuanLima10/">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanLima10&layout=compact&langs_count=16&theme=dark">
   </a>
