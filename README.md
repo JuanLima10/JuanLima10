@@ -4,8 +4,9 @@
 <p>
 Desenvolvedor FullStack<br>
 Olá meu nome é Juan Lima tenho 21 anos, <br>
-formado em Analise e Desenvolvimento de Sistemas (Faculdade Impacta), <br>
-e Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes). <br>
+Apaixonado por programação e tecnologia, estou em constante busca por desafios empolgantes  
+e oportunidades de aprendizado, se você está procurando alguém para trabalhar em um projeto 
+emocionante ou apenas deseja bater um papo sobre tecnologia, pode me chamar no linkedin. <br>
 </p>
 <br>
   
@@ -39,7 +40,6 @@ e Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes). <br>
 <div>
     <a href = "mailto: juanaraujolima17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/juan-lima-297b9a1b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/juanlima051/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 </div>
